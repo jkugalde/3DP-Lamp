@@ -2,7 +2,7 @@
 
 [![CC BY 4.0][cc-by-sa-shield]][cc-by-sa]
 
-I made a lamp to work in my 3030 T-SLot table, this is the second version an it is not fabricated yet. 
+I made a lamp to work in my 3030 T-SLot table, this is the second version.
 
 <img src="/img/isolamp.png" width="600">
 
@@ -21,7 +21,6 @@ I made a lamp to work in my 3030 T-SLot table, this is the second version an it 
 
 ## Future work
 
-- To actually build it.
 - Assembly guide with images.
 
 # License

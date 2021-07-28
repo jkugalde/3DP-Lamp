@@ -6,7 +6,7 @@
  ---------------------------   | ------------
  Led Bulb E14 | 1
  Socket E14 | 1
- 12.6 mm aluminium tube | 50 cm
+ 12.6 mm aluminium tube | 1 m
  M5x45 bolt | 2
  M5x20 bolt | 2
  M5 nut | 1
